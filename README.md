@@ -1,4 +1,3 @@
-# git_demo
 # this is simple game of tic-tac-toe
 # it is developed using pytest library in python
 # its very basic and easy straigh-away coding.
